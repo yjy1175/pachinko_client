@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pachinko_client/static/css/main.e6c13ad2.css",
+    "main.js": "/pachinko_client/static/js/main.0d948f48.js",
+    "static/js/453.bd5410e9.chunk.js": "/pachinko_client/static/js/453.bd5410e9.chunk.js",
+    "index.html": "/pachinko_client/index.html",
+    "main.e6c13ad2.css.map": "/pachinko_client/static/css/main.e6c13ad2.css.map",
+    "main.0d948f48.js.map": "/pachinko_client/static/js/main.0d948f48.js.map",
+    "453.bd5410e9.chunk.js.map": "/pachinko_client/static/js/453.bd5410e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0d948f48.js"
+  ]
+}
