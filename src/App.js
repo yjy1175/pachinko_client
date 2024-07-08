@@ -13,7 +13,7 @@ const Container = styled.div`
 const App = () => {
   return (
     <Container>
-      <VideoStream signalingServerUrl="ws://175.121.80.129:5555" />
+      <VideoStream signalingServerUrl="wss://175.121.80.129:5555" />
     </Container>
   );
 };
